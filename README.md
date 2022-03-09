@@ -1,4 +1,4 @@
-# CIND820-Final-Project
+# CIND820 Final Project
 
   This repository contains related documents and source code for my final project in the CIND820: Big Data Analytics Project course at Ryerson University. 
 
