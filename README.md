@@ -20,6 +20,9 @@ https://ai.stanford.edu/~amaas/data/sentiment/
 # Project Structure 
 
 1) Abstract - contains a brief overview of the research topic and approach taken.
-2) Literature Review - contains a review of revious work related to the proposed project, and rounds out the context and background information to the research topic.
+
+2) Literature Review - contains a review of previous work related to the proposed project, and rounds out the context and background information to the research topic.
+
 3) Initial Results - the initial results of the coding portion of this assignment. Coding is done in python and presented in IPYNB format for visualizations. 
+
 4) Final Results - will contain the final code, as well as full analysis of results.
