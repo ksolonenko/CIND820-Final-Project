@@ -2,6 +2,9 @@
 
   This repository contains related documents and source code for my final project in the CIND820: Big Data Analytics Project course at Ryerson University. 
 
+  Please note that my .ipynb files seem to not show visualizations when uploaded to Github, but Markdown .md files work just fine. 
+  Please refer to the .md file to look at coding. .ipynmb file is provided as it is required, but the code is exactly the same for both.
+  
 # Abstract
   With the rise of online review platforms and social media, it is becoming increasingly important for businesses to analyze public opinion about a product or service through customer feedback to have a leading edge over their competitors. Manually sorting through thousands of reviews and social media posts is very time consuming and inefficient, thus it is more beneficial for various industries to make this analysis through machine learning. Insights from this exploration can be used to monitor the strengths and weaknesses of a product, while comparing it to how other products are received online. 
 
